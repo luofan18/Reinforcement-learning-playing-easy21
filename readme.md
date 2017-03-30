@@ -80,7 +80,7 @@ Function approximation can make the algorithm learn faster. Again, we lose some 
 
 Using a non-overlapping coding scheme to encode the state can provide more stable results.
 
-![learning curve when function appoximation is used](sarsa learning with function approximation curve against lambda.png?raw=true)
+![learning curve when function appoximation is used](sarsa learning with function approximation curve against lambda.png?raw=true "learning curve when function approximation is used")
 
 ![learning curve use alternative coding scheme](sarsa learning with function approximation curve against lambda alternative coding.png)
 
