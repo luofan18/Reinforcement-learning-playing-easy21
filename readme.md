@@ -82,7 +82,7 @@ Using a non-overlapping coding scheme to encode the state can provide more stabl
 
 ![learning curve when function appoximation is used](sarsa%20learning%20with%20function%20approximation%20curve%20against%20lambda.png?raw=true "learning curve when function approximation is used")
 
-![learning curve use alternative coding scheme](sarsa learning with function approximation curve against lambda alternative coding.png)
+![learning curve using alternative coding scheme](sarsa%20learning%20with%20function%20approximation%20curve%20against%20lambda%20alternative%20coding.png?raw=true "learning curve using alternative coding scheme")
 
 
 
